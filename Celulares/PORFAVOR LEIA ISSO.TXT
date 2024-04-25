@@ -1,0 +1,4 @@
+Os layouts de celular médio e pequeno serão iguais, 
+porém haverá uma adpatação dos itens que irão estar presentes na tela 
+conforme o tamanho de tela do celular
+

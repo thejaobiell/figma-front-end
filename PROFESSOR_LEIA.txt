@@ -2,7 +2,7 @@ Esse repositório pertence aos alunos da sala 1TDSB-2024:
 
 João Gabriel Boaventura Marques e Silva RM:554874 https://github.com/thejaobiell
 Lucas Leal das Chagas RM:551124 https://github.com/LucasLDC
-Lucas de Melo Pinheiro Pinho RM:558791
+Lucas de Melo Pinheiro Pinho RM:558791 https://github.com/DS7XD
 
 LOGIN PARA FIGMA:
 EMAIL: tawfik9893@uorak.com
